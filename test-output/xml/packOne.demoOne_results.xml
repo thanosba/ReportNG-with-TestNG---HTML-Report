@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Suite"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.665">
+  <properties />
+  
+  
+            <testcase name="firstTestCase" time="0.083" classname="packOne.demoOne" />
+                <testcase name="thirdTestCase" time="1.522" classname="packOne.demoOne" />
+                <testcase name="secondTestCase" time="8.847" classname="packOne.demoOne" />
+                <testcase name="finalTestCase" time="0.213" classname="packOne.demoOne" />
+      
+</testsuite>
